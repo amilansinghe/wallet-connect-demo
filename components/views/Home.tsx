@@ -71,7 +71,7 @@ export default function Home() {
           <div className="grid justify-items-center md:p-5 p-1">
             <div className="flex flex-row">
               <span className="text-3xl font-bold text-white">
-                Mint a "CashHand Provider" Today
+                {` Mint a "CashHand Provider" Today`}
               </span>
             </div>
             <div className="flex flex-row mt-12">
